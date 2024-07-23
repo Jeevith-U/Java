@@ -1,0 +1,9 @@
+# Synchronization will impact on the performance of the application because it will execute the methods one by one
+
+Advantages of Locks over Synchronization
+- Fine-Grained Control: Locks provide explicit methods to lock and unlock, giving finer control over the critical section.
+- Non-Blocking Try-Lock: The ability to try acquiring a lock without blocking improves performance and flexibility.
+- Timeouts: Locks can specify timeouts for acquiring a lock, preventing indefinite blocking.
+- Interruptibility: Locks can be acquired interruptibly, allowing for better thread management.
+- Fairness: Locks can be configured for fairness, ensuring a more predictable order of thread execution.
+- Read/Write Locks: The distinction between read and write locks allows for more efficient concurrency management.

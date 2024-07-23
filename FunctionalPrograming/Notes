@@ -1,0 +1,2 @@
+#After Performing A Operation on a stream if the result is Stream it is Called as "Intermediate Operation"
+#After Performing A Operation on a stream if the result is One Value it is Called as "terminal Operation"
