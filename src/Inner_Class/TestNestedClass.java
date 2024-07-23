@@ -28,13 +28,21 @@ public class TestNestedClass {
 		System.out.println("From Outer : "+new TestClass().y);
 	}
 	
+	public void display() {
+		System.out.println(x);
+		TestClass inner = new TestClass() ;// we can create the object of inner class inside the Method
+		inner.innerDisplay();
+	}
+	
 	public static void main(String[] args) {
 		
 		TestNestedClass outer = new TestNestedClass() ;
 		TestClass inner = outer.new TestClass() ; // To create the Object Of inner Class
 		
-		outer.outerDisplay();
-		inner.innerDisplay();
+		outer.display();
+		
+//		outer.outerDisplay();
+//		inner.innerDisplay();
 	}
 	
 }
