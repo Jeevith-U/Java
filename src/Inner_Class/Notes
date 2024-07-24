@@ -13,6 +13,11 @@ Anonymous Inner Class :
 > A Class with No Name is called an anonymous Class
 > General Usage of anonymous class if for providing implementation for Abstarct class And for interface without creating the class
 
+Static Inner Class :
+> Static InnerClass are the Member of outer Class
+> You can create the object of inner out side of the outer class also because they are static
+> Static InnerClass Canot access the non static member of Outer class
+
 
 
 
