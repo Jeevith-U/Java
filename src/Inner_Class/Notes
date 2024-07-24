@@ -1,23 +1,17 @@
-We Can Create Inner Class In Following Ways
-- Nested Inner Class
-- Local Inner Class
-- Anonymous inner Class
-- Static inner class
+### Local Inner Class
 
-Local Inner Class : we Can Define a Class Inside a Method That Class is called as LocalInner Class
-> This class only visible and useful inside a method
-> This kind of classes are local to the  Method
-> If Inheriting a class is only useful inside a method then we define inner class
+- we Can Define a Class Inside a Method That Class is called as LocalInner Class
+- This class only visible and useful inside a method
+- This kind of classes are local to the  Method
+- If Inheriting a class is only useful inside a method then we define inner class
 
-Anonymous Inner Class :
-> A Class with No Name is called an anonymous Class
-> General Usage of anonymous class if for providing implementation for Abstarct class And for interface without creating the class
+### Anonymous Inner Class
 
-Static Inner Class :
-> Static InnerClass are the Member of outer Class
-> You can create the object of inner out side of the outer class also because they are static
-> Static InnerClass Canot access the non static member of Outer class
+- A Class with No Name is called an anonymous Class
+- General Usage of anonymous class if for providing implementation for Abstarct class And for interface without creating the class
 
+### Static Inner Class
 
-
-
+- Static InnerClass are the Member of outer Class
+- You can create the object of inner out side of the outer class also because they are static
+- Static InnerClass Canot access the non static member of Outer class
