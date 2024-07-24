@@ -1,3 +1,5 @@
+
+
 ### Local Inner Class
 
 - we Can Define a Class Inside a Method That Class is called as LocalInner Class
@@ -15,3 +17,4 @@
 - Static InnerClass are the Member of outer Class
 - You can create the object of inner out side of the outer class also because they are static
 - Static InnerClass Canot access the non static member of Outer class
+- If you have more static method in a class, then you can put them or groop them in a static class. So it will be easy for access.
