@@ -10,5 +10,9 @@ Local Inner Class : we Can Define a Class Inside a Method That Class is called a
 > If Inheriting a class is only useful inside a method then we define inner class
 
 Anonymous Inner Class :
+> A Class with No Name is called an anonymous Class
+> General Usage of anonymous class if for providing implementation for Abstarct class And for interface without creating the class
+
+
 
 
