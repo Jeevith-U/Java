@@ -3,3 +3,7 @@ We Can Create Inner Class In Following Ways
 - Local Inner Class
 - Anonymous inner Class
 - Static inner class
+
+Local Inner Class : we Can Define a Class Inside a Method That Class is called as LocalInner Class
+> This class only visible and useful inside a method
+> This kind of classes are local to the  Method
