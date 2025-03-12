@@ -1,7 +1,8 @@
 # Java
-In this repository, I'm keeping the advanced topics of Java with practical implementation.
+- In this repository, I'm keeping the advanced topics of Java with practical implementation.
+- My Foucs will be On Threads, Multithreads And Java 8 Features
 
-## You want notes check this out : 
+## You want notes check this out :  
 <a href = "https://granite-albacore-2b6.notion.site/Java-Notes-e80171efd8ac46a5a69afd308bbfcf64?pvs=4">Notes</a>
 
 ## Concepts cover sofar
